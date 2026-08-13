@@ -2474,9 +2474,9 @@
       "detected_at": "2026-07-21T11:25:15+03:00"
     },
     "KLSYN_45m": {
-      "time": "2026-08-13T08:15:00",
-      "price": 15.13,
-      "detected_at": "2026-08-13T11:57:14+03:00"
+      "time": "2026-08-13T15:00:00",
+      "price": 15.23,
+      "detected_at": "2026-08-13T18:44:49+03:00"
     },
     "ARASE_45m": {
       "time": "2026-07-14T13:30:00",
@@ -2839,9 +2839,9 @@
       "detected_at": "2026-08-10T12:07:28+03:00"
     },
     "YATAS_45m": {
-      "time": "2026-07-06T06:45:00",
-      "price": 41.78,
-      "detected_at": "2026-07-06T10:24:57+03:00"
+      "time": "2026-08-13T15:00:00",
+      "price": 33.78,
+      "detected_at": "2026-08-13T18:44:49+03:00"
     },
     "KTLEV_45m": {
       "time": "2026-07-09T06:45:00",
@@ -3999,9 +3999,9 @@
       "detected_at": "2026-08-06T11:35:11+03:00"
     },
     "IHEVA_45m": {
-      "time": "2026-08-13T10:30:00",
+      "time": "2026-08-13T15:00:00",
       "price": 2.02,
-      "detected_at": "2026-08-13T14:09:30+03:00"
+      "detected_at": "2026-08-13T18:44:49+03:00"
     },
     "ALTNY_45m": {
       "time": "2026-08-13T11:15:00",
@@ -4267,6 +4267,11 @@
       "time": "2026-08-13T12:45:00",
       "price": 82.45,
       "detected_at": "2026-08-13T16:24:17+03:00"
+    },
+    "SSAAT_45m": {
+      "time": "2026-08-13T15:00:00",
+      "price": 40.0,
+      "detected_at": "2026-08-13T18:44:49+03:00"
     }
   },
   "last_sent_rsi_macd": {
@@ -4815,9 +4820,9 @@
       "detected_at": "2026-07-17T11:53:30+03:00"
     },
     "KLSYN_45m": {
-      "time": "2026-08-13T08:15:00",
-      "price": 15.13,
-      "detected_at": "2026-08-13T11:57:14+03:00"
+      "time": "2026-08-13T15:00:00",
+      "price": 15.23,
+      "detected_at": "2026-08-13T18:44:49+03:00"
     },
     "ARASE_45m": {
       "time": "2026-07-14T13:30:00",
@@ -6000,9 +6005,9 @@
       "detected_at": "2026-08-07T17:57:12+03:00"
     },
     "IHEVA_45m": {
-      "time": "2026-08-13T10:30:00",
+      "time": "2026-08-13T15:00:00",
       "price": 2.02,
-      "detected_at": "2026-08-13T14:09:30+03:00"
+      "detected_at": "2026-08-13T18:44:49+03:00"
     },
     "ANELE_45m": {
       "time": "2026-08-11T13:30:00",
@@ -8583,145 +8588,10 @@
     "2026-08-13_11:45": "2026-08-13 11:57:45",
     "2026-08-13_13:30": "2026-08-13 14:09:42",
     "2026-08-13_14:30": "2026-08-13 15:05:30",
-    "2026-08-13_16:00": "2026-08-13 16:24:26"
+    "2026-08-13_16:00": "2026-08-13 16:24:26",
+    "2026-08-13_17:15": "2026-08-13 18:45:02"
   },
   "signal_history": [
-    {
-      "symbol": "AKSEN",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 84.15
-    },
-    {
-      "symbol": "AKSEN",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 84.15
-    },
-    {
-      "symbol": "ALCAR",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 745.5
-    },
-    {
-      "symbol": "ALCAR",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 745.5
-    },
-    {
-      "symbol": "ARFYE",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 31.1
-    },
-    {
-      "symbol": "ARFYE",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 31.1
-    },
-    {
-      "symbol": "CATES",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 40.52
-    },
-    {
-      "symbol": "CATES",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 40.52
-    },
-    {
-      "symbol": "GLCVY",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 60.85
-    },
-    {
-      "symbol": "GLRYH",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 3.39
-    },
-    {
-      "symbol": "IZMDC",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 8.88
-    },
-    {
-      "symbol": "IZMDC",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 8.88
-    },
-    {
-      "symbol": "VSNMD",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T13:30:00",
-      "detected_at": "2026-06-29T17:24:26+03:00",
-      "price": 108.4
-    },
-    {
-      "symbol": "DSTKF",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T15:00:00",
-      "detected_at": "2026-06-29T18:38:32+03:00",
-      "price": 3550.0
-    },
-    {
-      "symbol": "DSTKF",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T15:00:00",
-      "detected_at": "2026-06-29T18:38:32+03:00",
-      "price": 3550.0
-    },
-    {
-      "symbol": "EGEGY",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T15:00:00",
-      "detected_at": "2026-06-29T18:38:32+03:00",
-      "price": 28.96
-    },
-    {
-      "symbol": "HEDEF",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T15:00:00",
-      "detected_at": "2026-06-29T18:38:32+03:00",
-      "price": 153.5
-    },
     {
       "symbol": "AYCES",
       "period": "45m",
@@ -23860,6 +23730,54 @@
       "bar_time": "2026-08-13T12:45:00",
       "detected_at": "2026-08-13T16:24:17+03:00",
       "price": 288.0
+    },
+    {
+      "symbol": "IHEVA",
+      "period": "45m",
+      "strategy": "new_scan",
+      "bar_time": "2026-08-13T15:00:00",
+      "detected_at": "2026-08-13T18:44:49+03:00",
+      "price": 2.02
+    },
+    {
+      "symbol": "IHEVA",
+      "period": "45m",
+      "strategy": "ema",
+      "bar_time": "2026-08-13T15:00:00",
+      "detected_at": "2026-08-13T18:44:49+03:00",
+      "price": 2.02
+    },
+    {
+      "symbol": "KLSYN",
+      "period": "45m",
+      "strategy": "new_scan",
+      "bar_time": "2026-08-13T15:00:00",
+      "detected_at": "2026-08-13T18:44:49+03:00",
+      "price": 15.23
+    },
+    {
+      "symbol": "KLSYN",
+      "period": "45m",
+      "strategy": "ema",
+      "bar_time": "2026-08-13T15:00:00",
+      "detected_at": "2026-08-13T18:44:49+03:00",
+      "price": 15.23
+    },
+    {
+      "symbol": "SSAAT",
+      "period": "45m",
+      "strategy": "new_scan",
+      "bar_time": "2026-08-13T15:00:00",
+      "detected_at": "2026-08-13T18:44:49+03:00",
+      "price": 40.0
+    },
+    {
+      "symbol": "YATAS",
+      "period": "45m",
+      "strategy": "new_scan",
+      "bar_time": "2026-08-13T15:00:00",
+      "detected_at": "2026-08-13T18:44:49+03:00",
+      "price": 33.78
     }
   ]
 }
