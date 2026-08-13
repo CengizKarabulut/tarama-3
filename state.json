@@ -8553,62 +8553,6 @@
   },
   "signal_history": [
     {
-      "symbol": "ECOGR",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T09:00:00",
-      "detected_at": "2026-06-29T12:39:46+03:00",
-      "price": 42.96
-    },
-    {
-      "symbol": "HUNER",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T09:00:00",
-      "detected_at": "2026-06-29T12:39:46+03:00",
-      "price": 4.04
-    },
-    {
-      "symbol": "HUNER",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T09:00:00",
-      "detected_at": "2026-06-29T12:39:46+03:00",
-      "price": 4.04
-    },
-    {
-      "symbol": "KARTN",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T09:00:00",
-      "detected_at": "2026-06-29T12:39:46+03:00",
-      "price": 139.8
-    },
-    {
-      "symbol": "ONRYT",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T09:00:00",
-      "detected_at": "2026-06-29T12:39:46+03:00",
-      "price": 67.1
-    },
-    {
-      "symbol": "SEYKM",
-      "period": "45m",
-      "strategy": "new_scan",
-      "bar_time": "2026-06-29T09:00:00",
-      "detected_at": "2026-06-29T12:39:46+03:00",
-      "price": 4.95
-    },
-    {
-      "symbol": "SEYKM",
-      "period": "45m",
-      "strategy": "ema",
-      "bar_time": "2026-06-29T09:00:00",
-      "detected_at": "2026-06-29T12:39:46+03:00",
-      "price": 4.95
-    },
-    {
       "symbol": "HATEK",
       "period": "45m",
       "strategy": "new_scan",
